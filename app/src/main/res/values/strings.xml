@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CheckBoxDemo</string>
+    <string name="information">Information</string>
+    <string name="toggle">Toggle</string>
+    <string name="checked">Checked</string>
+    <string name="unchecked">Unchecked</string>
+    <string name="settings">Settings</string>
+    <string name="application">Application</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="checkbox_demo">CheckBox Demo</string>
 </resources>
